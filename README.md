@@ -100,4 +100,5 @@ Tiempo de la prueba: 16H (a partir de la hora de envío de la prueba).
 Link del archivo en Adobe XD: https://xd.adobe.com/view/4774cb59-6e55-4588-506a-8129bda2a25e-3145/
 Clave: Bees@fullStack2020
 
-![alt text](https://i.imgur.com/M9wop8f.png)
+https://i.imgur.com/gCDnD4B.png
+![alt text](https://i.imgur.com/gCDnD4B.png)
